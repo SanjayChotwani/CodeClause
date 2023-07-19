@@ -1,4 +1,4 @@
-# CodeClause
+# Handwritten Digit Recognition
 
 I have developed a handwriting digit recognition model using Python in Google Colaboratory. To train and evaluate the model, I utilized the MNIST dataset, which is commonly used for tasks involving image recognition. The goal of this project was to create a program that can accurately identify handwritten digits.
 
